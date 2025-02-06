@@ -49,7 +49,8 @@ def user_input_fil()->str:
 
 def en_data()->dict:
     data = {
-       "HOW ARE YOU": "Fine, Thank you for asking!"
+        "HOW ARE YOU": "Fine, Thank you for asking!"
+        "BARANGAYS IN SANTA ROSA, LAGUNA":
         #We can add more reply and question 
     }
     return data
